@@ -1,0 +1,71 @@
+.User-img img {
+  margin-top: 2em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  align-content: center;
+}
+.User-pannel {
+  margin-left: 2em;
+  padding: 10px;
+  border: solid 1px black;
+  height: 800px;
+}
+.User-li {
+  margin: auto;
+}
+.User-li.active {
+  text-decoration: underline !important;
+  color: black;
+}
+.Image-form-user img {
+  margin-top: 5em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  width: 280px;
+  height: 280px;
+  border-radius: 50%;
+  align-content: center;
+}
+.le-formUser {
+  width: 2rem;
+}
+.Image-form-user p {
+  color: black;
+  margin-top: 0.1rem;
+}
+.fa-camera {
+  font-size: 20px;
+}
+.User-form-btn {
+  transform: translate(0, -99%);
+  opacity: 0;
+  border-radius: 0px 0px 100rem 100rem;
+  height: 150px;
+  width: 280px;
+}
+.User-form-btn:hover {
+  opacity: 0.7;
+}
+.form-information-user {
+  margin-top: 2rem;
+  margin: 5rem;
+}
+.form-information-user p {
+  margin-left: 1rem;
+  color: black;
+}
+.edit-user {
+  transform: translate(0%, -200%);
+}
+.change-pass button {
+  margin: 20px;
+  transform: translate(450%, 0);
+  width: 100px;
+}

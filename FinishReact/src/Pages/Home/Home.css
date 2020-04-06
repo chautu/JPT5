@@ -1,0 +1,139 @@
+/* 
+
+
+
+Category 
+
+
+
+
+*/
+.categoryHome-left img {
+  height: 250px;
+  width: 350px;
+}
+.categoryHome-center img {
+  height: 538px;
+  width: 350px;
+}
+.categoryHome-right img {
+  height: 250px;
+  width: 350px;
+}
+.btn-categoryhome {
+  border-radius: 0;
+  transform: translate(0, -100%);
+}
+.btn-categoryhome-center {
+  transform: translate(0, -1200%);
+}
+.categoryHome-content h2 {
+  transform: translate(0, -1300%);
+  color: #82ae46;
+  font-family: "Lora", Georgia, serif;
+  font-style: italic;
+  font-size: 24px;
+}
+.categoryHome-content p {
+  font-family: "Lora", Georgia, serif;
+  transform: translate(0, -1800%);
+}
+.categoryHome-content {
+  font-family: "Lora", Georgia, serif;
+} 
+.ProductHome-text h6 {
+  font-size: 18px;
+  display: block;
+  margin-bottom: 10px;
+  font-family: "Lora", Georgia, serif;
+  font-style: italic;
+  color: #82ae46;
+}
+.ProductHome-text h1 {
+  position: relative;
+  font-size: 40px;
+  font-weight: 600;
+  color: #000000;
+  font-family: "Poppins", Arial, sans-serif;
+}
+
+/* 
+
+
+
+ Banner 
+
+
+
+ */
+.banner {
+  height: 700px;
+}
+.banner-content {
+  transform: translate(50%, -150%);
+}
+.banner-time {
+  width: 150px !important;
+}
+.subheading {
+  font-size: 18px;
+  display: block;
+  margin-bottom: 10px;
+  font-family: "Lora", Georgia, serif;
+  font-style: italic;
+  color: #82ae46;
+}
+.banner img {
+  height: 700px;
+  width: 100%;
+}
+
+.banner h2 {
+  position: relative;
+  font-size: 40px;
+  font-weight: 600;
+  color: #000000;
+  font-family: "Poppins", Arial, sans-serif;
+}
+.banner p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.banner h3 {
+  font-size: 30px;
+  font-family: "Lora", Georgia, serif;
+  font-style: italic;
+}
+.price {
+  margin: 0 auto;
+  font-weight: 500;
+  font-size: 18px;
+}
+.ListComment li {
+  height: 20px !important;
+  width: 20px !important;
+  background-color: rgb(80, 78, 78) !important;
+  border-radius: 50%;
+}
+.ListComment {
+  height: 500px;
+  background-color: white;
+  width: 90%;
+}
+.carousel-control-prev {
+  transform: translate(-50%);
+  width: 100px;
+}
+.carousel-control-next {
+  transform: translate(50%);
+  width: 100px;
+}
+/* 
+Comment
+ */
+.comment-card:hover {
+  box-shadow: 10px 10px 100px 10px rgb(167, 47, 0) !important;
+}

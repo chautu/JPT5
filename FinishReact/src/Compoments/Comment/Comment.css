@@ -1,0 +1,37 @@
+.comment-image img {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  opacity: 1;
+}
+.quote {
+  padding: 10px 10px;
+  width: 40px;
+  height: 40px;
+  color: #82ae46;
+  background-color: white;
+  border-radius: 50%;
+  transform: translate(170%, -90%);
+}
+.comment-card {
+  width: 300px;
+  height: 432px;
+}
+
+.comment-content {
+  position: relative;
+  border-left: 1px solid #e6e6e6;
+  color: #756c6c;
+}
+.comment-name {
+  font-weight: 400;
+  font-size: 18px;
+  margin-bottom: 0;
+  color: #000000;
+}
+.comment-position {
+  font-size: 12px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
